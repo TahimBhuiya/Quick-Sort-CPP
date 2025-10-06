@@ -9,3 +9,5 @@ void swap(int &a, int &b) {
     a = b;
     b = temp;
 }
+
+int partition(int arr[], int low, int high) {}
