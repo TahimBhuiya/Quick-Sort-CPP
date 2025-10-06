@@ -10,6 +10,8 @@ void swap(int &a, int &b) {
     b = temp;
 }
 
+
+// Partition function: places the pivot in the correct position
 int partition(int arr[], int low, int high) {
     int pivot = arr[high];
     int i = low - 1; 
