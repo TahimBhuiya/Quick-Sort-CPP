@@ -10,4 +10,6 @@ void swap(int &a, int &b) {
     b = temp;
 }
 
-int partition(int arr[], int low, int high) {}
+int partition(int arr[], int low, int high) {
+    int pivot = arr[high];
+}
