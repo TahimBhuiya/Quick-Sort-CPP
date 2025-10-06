@@ -4,4 +4,4 @@
 #include <iostream>
 using namespace std;
 
-void swap{}
+void swap(int &a, int &b) {}
