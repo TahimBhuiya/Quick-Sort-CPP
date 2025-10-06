@@ -3,3 +3,5 @@
 // It uses the divide-and-conquer approach by partitioning the array around a pivot element.
 #include <iostream>
 using namespace std;
+
+void swap{}
