@@ -12,6 +12,7 @@ void swap(int &a, int &b) {
 
 
 // Partition function: places the pivot in the correct position
+// and arranges smaller elements to the left and greater elements to the right.
 int partition(int arr[], int low, int high) {
     int pivot = arr[high];
     int i = low - 1; 
