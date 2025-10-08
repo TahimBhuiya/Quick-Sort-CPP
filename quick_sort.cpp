@@ -30,5 +30,5 @@ int partition(int arr[], int low, int high) {
     return i + 1;// Return pivot index
 }
 
-
+// Recursive Quick Sort function
 void quickSort(int arr[], int low, int high) {}
