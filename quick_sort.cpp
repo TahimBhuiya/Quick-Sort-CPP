@@ -19,7 +19,7 @@ int partition(int arr[], int low, int high) {
 
     // Traverse through the array and rearrange elements
     for (int j = low; j < high; j++) {
-
+        // If the current element is smaller than or equal to the pivot
         if (arr[j] <= pivot) {
             i++;
             swap(arr[i], arr[j]);
