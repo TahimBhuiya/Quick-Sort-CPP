@@ -17,6 +17,7 @@ int partition(int arr[], int low, int high) {
     int pivot = arr[high]; // Choose the last element as the pivot
     int i = low - 1; // Index of the smaller element
 
+    // Traverse through the array and rearrange elements
     for (int j = low; j < high; j++) {
 
         if (arr[j] <= pivot) {
