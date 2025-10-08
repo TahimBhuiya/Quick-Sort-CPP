@@ -21,7 +21,7 @@ int partition(int arr[], int low, int high) {
     for (int j = low; j < high; j++) {
         // If the current element is smaller than or equal to the pivot
         if (arr[j] <= pivot) {
-            i++;
+            i++; // Increment index of smaller element
             swap(arr[i], arr[j]);
         }
     }
