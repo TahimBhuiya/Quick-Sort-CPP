@@ -25,4 +25,5 @@ int partition(int arr[], int low, int high) {
             swap(arr[i], arr[j]); // Swap current element with the element at index i
         }
     }
+    swap(arr[i + 1], arr[high]);
 }
