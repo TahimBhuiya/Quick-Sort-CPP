@@ -33,6 +33,7 @@ int partition(int arr[], int low, int high) {
 // Recursive Quick Sort function
 void quickSort(int arr[], int low, int high) {
     if (low < high) {
+        // Partition the array
         int pi = partition(arr, low, high);
     }
 }
