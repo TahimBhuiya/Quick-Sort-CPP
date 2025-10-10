@@ -54,7 +54,7 @@ void printArray(int arr[], int size) {
 
 // Main function
 int main() {
-    
+    // Example array to sort
     
     
 
