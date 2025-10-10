@@ -56,6 +56,6 @@ void printArray(int arr[], int size) {
 int main() {
     // Example array to sort
     int arr[] = {10, 7, 8, 9, 1, 5};
-    
+    int n = sizeof(arr) / sizeof(arr[0]);
 
 }
