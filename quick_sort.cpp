@@ -51,7 +51,6 @@ void printArray(int arr[], int size) {
     cout << endl;
 }
 
-
 // Main function
 int main() {
     // Example array to sort
