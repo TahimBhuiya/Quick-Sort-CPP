@@ -61,7 +61,7 @@ int main() {
     printArray(arr, n);
 
     // Perform Quick Sort
-    
+    quickSort(arr, 0, n - 1);
 
     
     
