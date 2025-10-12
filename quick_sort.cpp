@@ -62,7 +62,7 @@ int main() {
 
     // Perform Quick Sort
     quickSort(arr, 0, n - 1);
-
+    // Print out sorted array
     cout << "Sorted array: ";
     printArray(arr, n);
 
