@@ -10,7 +10,6 @@ void swap(int &a, int &b) {
     b = temp;
 }
 
-
 // Partition function: places the pivot in the correct position
 // and arranges smaller elements to the left and greater elements to the right.
 int partition(int arr[], int low, int high) {
@@ -43,7 +42,6 @@ void quickSort(int arr[], int low, int high) {
     }
 }
 
-
 // Function to print the array
 void printArray(int arr[], int size) {
     for (int i = 0; i < size; i++)
@@ -67,5 +65,4 @@ int main() {
     printArray(arr, n);
 
     return 0;
-
 }
