@@ -11,3 +11,5 @@ This C++ program demonstrates the **Quick Sort** algorithm, a highly efficient, 
 It displays the array before and after sorting to help visualize how quick sort organizes the elements.
 
 ---
+
+## 🔧 Features
