@@ -13,3 +13,5 @@ It displays the array before and after sorting to help visualize how quick sort 
 ---
 
 ## 🔧 Features
+
+- **Divide and Conquer**: Splits and sorts subarrays around a pivot for high performance.
