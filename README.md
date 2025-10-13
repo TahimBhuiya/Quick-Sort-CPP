@@ -20,3 +20,5 @@ It displays the array before and after sorting to help visualize how quick sort 
 - **Fully Commented Code**: Each step is clearly explained for easy learning and modification.
 
 ---
+
+## 📋 Example Run
