@@ -16,3 +16,4 @@ It displays the array before and after sorting to help visualize how quick sort 
 
 - **Divide and Conquer**: Splits and sorts subarrays around a pivot for high performance.
 - **In-Place Sorting**: Does not require extra arrays, reducing memory use.
+- **Efficient Performance**: Average time complexity of _O(n log n)_.
