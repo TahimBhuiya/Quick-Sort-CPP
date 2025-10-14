@@ -34,3 +34,5 @@ Sorted array:
 ---
 
 ## ⚙ How It Works
+
+1. **Choose a Pivot**
