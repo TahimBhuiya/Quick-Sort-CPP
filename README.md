@@ -28,4 +28,7 @@ Original array:
 10 7 8 9 1 5
 
 **Output:**  
-Sorted array:
+Sorted array:  
+1 5 7 8 9 10
+
+---
