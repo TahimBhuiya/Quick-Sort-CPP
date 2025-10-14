@@ -22,3 +22,5 @@ It displays the array before and after sorting to help visualize how quick sort 
 ---
 
 ## 📋 Example Run
+
+**Input:**
