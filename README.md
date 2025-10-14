@@ -24,4 +24,5 @@ It displays the array before and after sorting to help visualize how quick sort 
 ## 📋 Example Run
 
 **Input:**  
-Original array:
+Original array:  
+10 7 8 9 1 5
