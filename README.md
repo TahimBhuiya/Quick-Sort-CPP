@@ -48,3 +48,7 @@ Sorted array:
    - Repeat the process for the subarrays on the left and right of the pivot.
 
 4. **Combine Results**
+
+   - Once all subarrays are sorted, the entire array becomes sorted.
+
+---
