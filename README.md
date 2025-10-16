@@ -42,3 +42,5 @@ Sorted array:
 2. **Partition the Array**
 
    - Move all elements smaller than or equal to the pivot to the left, and all greater elements to the right.
+
+3. **Recursively Sort Subarrays**
