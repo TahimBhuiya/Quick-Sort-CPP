@@ -44,3 +44,5 @@ Sorted array:
    - Move all elements smaller than or equal to the pivot to the left, and all greater elements to the right.
 
 3. **Recursively Sort Subarrays**
+
+   - Repeat the process for the subarrays on the left and right of the pivot.
