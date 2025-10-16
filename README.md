@@ -36,4 +36,7 @@ Sorted array:
 ## ⚙ How It Works
 
 1. **Choose a Pivot**
+
    - Usually the last element in the array is chosen as the pivot.
+
+2. **Partition the Array**
