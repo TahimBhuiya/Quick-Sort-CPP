@@ -52,3 +52,5 @@ Sorted array:
    - Once all subarrays are sorted, the entire array becomes sorted.
 
 ---
+
+## 🛠 How to Run
