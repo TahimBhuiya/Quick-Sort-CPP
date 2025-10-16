@@ -46,3 +46,5 @@ Sorted array:
 3. **Recursively Sort Subarrays**
 
    - Repeat the process for the subarrays on the left and right of the pivot.
+
+4. **Combine Results**
