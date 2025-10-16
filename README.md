@@ -40,3 +40,5 @@ Sorted array:
    - Usually the last element in the array is chosen as the pivot.
 
 2. **Partition the Array**
+
+   - Move all elements smaller than or equal to the pivot to the left, and all greater elements to the right.
