@@ -74,3 +74,5 @@ g++ quick_sort.cpp -o quick_sort
 - Run it directly in your browser.
 
 ````
+
+👨‍💻 Created by **Tahim Bhuiya**
