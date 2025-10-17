@@ -70,5 +70,9 @@ g++ quick_sort.cpp -o quick_sort
 
 ### 2️⃣ Using an online C++ compiler
 
+- Go to a site like [Programiz](https://www.programiz.com/cpp-programming/online-compiler) or [Replit](https://replit.com/languages/cpp)
+
+
+
 
 ````
