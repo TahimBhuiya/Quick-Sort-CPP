@@ -64,7 +64,7 @@ Sorted array:
 
 ```bash
 g++ quick_sort.cpp -o quick_sort
-
+./quick_sort
 
 
 
