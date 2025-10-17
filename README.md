@@ -62,17 +62,18 @@ Sorted array:
 - Save the code as `quick_sort.cpp` or any name you prefer.
 - Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
 
-````bash
+```bash
 g++ quick_sort.cpp -o quick_sort
 ./quick_sort
-```
 
 
 ### 2️⃣ Using an online C++ compiler
+
 - Go to a site like [Programiz](https://www.programiz.com/cpp-programming/online-compiler) or [Replit](https://replit.com/languages/cpp)
 - Paste the code
 - Run it directly in your browser.
 
-````
+---
 
 👨‍💻 Created by **Tahim Bhuiya**
+```
