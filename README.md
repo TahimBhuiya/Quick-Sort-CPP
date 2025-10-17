@@ -60,3 +60,4 @@ Sorted array:
 ### 1️⃣ Using a local C++ compiler
 
 - Save the code as `quick_sort.cpp` or any name you prefer.
+- Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
